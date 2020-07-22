@@ -20,5 +20,10 @@
 }
 
 nav{
-    nav {direction: rtl;}
+        direction: rtl;
+    }
+
+h1{
+    color: brown;
+
 }
