@@ -1,0 +1,24 @@
+*{
+    text-align: right;
+}
+
+.caroslla{
+    width: 60%;
+}
+.carousel-item{
+    height: 400px;
+    width: 800px;
+}
+
+.carousel img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-height: 400px;
+    max-width: 800px;
+
+}
+
+nav{
+    nav {direction: rtl;}
+}
